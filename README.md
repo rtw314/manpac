@@ -1,0 +1,2 @@
+# manpac
+Pacman clone lite
